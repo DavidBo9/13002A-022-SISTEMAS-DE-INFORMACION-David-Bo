@@ -1,0 +1,2 @@
+1 {'cantidad': 50, 'nombre': '50', 'precio': 50.0}
+2 {'cantidad': 80, 'nombre': '80', 'precio': 80.0}
